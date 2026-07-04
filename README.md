@@ -68,3 +68,5 @@ This project is open source and available under the [MIT License](LICENSE).
 - Created as part of a personal game development journey
 
 ---
+YouTube channel:
+https://www.youtube.com/@projectThaofficialpage
