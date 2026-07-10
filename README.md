@@ -70,3 +70,29 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 YouTube channel:
 https://www.youtube.com/@projectThaofficialpage
+
+# 🛑 Project THA — Official Cancellation Notice
+
+After careful consideration, I have decided to officially cancel the development of **Project THA**. This was not an easy decision, but it is the right one at this time.
+
+## Why was it cancelled?
+
+This project started as a personal learning journey, and I’m proud of what I was able to build from scratch. However, due to a combination of personal reasons, limited resources, and shifting priorities, I can no longer continue development.
+
+## What have I learned?
+
+Even though the project is ending, the experience was invaluable. I learned how to:
+- Build a 3D game using HTML, CSS, and JavaScript.
+- Work with the Three.js library.
+- Package a web game into an APK for Android.
+- Manage a GitHub repository and interact with the open-source community.
+
+## What’s next?
+
+This is not the end of my game development journey. I’m taking a break to reflect, learn new skills, and come back stronger. I’m grateful to everyone who showed interest, offered feedback, or simply stopped by to take a look.
+
+Thank you for being part of this short but meaningful chapter.
+
+— Taha  
+*Creator of Project THA*  
+🎮💚
